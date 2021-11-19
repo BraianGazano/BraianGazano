@@ -18,7 +18,7 @@ Mi nombre es Braian! Soy un estudiante de la carrera Ingeniería en Computación
 
 Contacto:
 
-[![Linkedin media logo](https://i.imgur.com/ERUZRnu.png)](https://www.linkedin.com/in/BraianGazano/)
+[![Linkedin media logo](https://i.imgur.com/ERUZRnu.png)](https://www.linkedin.com/in/braian-gazano/)
 
 O a través de email en : 📫 gazanobraian@gmail.com
 
