@@ -27,5 +27,5 @@ O a través de email en : 📫 gazanobraian@gmail.com
 ![Coding](https://i.imgur.com/NxQdNuV.gif)
 
 <div>
-  ![Snake animation]([(https://svgshare.com/i/oF8.svg)])
+  ![Snake animation](https://svgshare.com/i/oF8.svg)
 </div>
